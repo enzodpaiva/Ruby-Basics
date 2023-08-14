@@ -51,6 +51,3 @@ Se você encontrou algum problema ou deseja adicionar novos recursos ou exemplos
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-Espero que este projeto seja útil para você dar os primeiros passos no mundo do Ruby. Divirta-se programando! 🚀😊
-
